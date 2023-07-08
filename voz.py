@@ -2,12 +2,13 @@ import openai
 from dotenv import load_dotenv
 import os
 
+
 # Cargar las variables de entorno desde el archivo .env
 load_dotenv()
 
 # Obtener la clave de API desde las variables de entorno
 api_key = os.getenv("OPENAI_API_KEY")
-
+print(api_key)
 # Configurar la clave de API en openai
 openai.api_key = api_key
 

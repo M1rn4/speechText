@@ -1,0 +1,8 @@
+from elevenlabs.api.voice import Voice, VoiceSample
+mirna1 = Voice(voice_id='Z5hZFyjdboTgD6JMcHfe',name='Mirna' ,category='cloned' ,description='An youngperuvian woman' ,labels={} ,samples=[VoiceSample(sample_id='L88SMYiFzCYkSprAuyzj', file_name='mirna_139974256535680.mp3', mime_type='audio/mpeg', size_bytes=409600, hash="a148bd04522c079cd4b02de356dd4d76")])
+
+mitchel1= Voice(voice_id='vgojDlfMZ2gA7pSS7BpG' ,name='Mitchel' ,category='cloned' ,description='An young peruvian man' ,labels={} ,samples=[VoiceSample(sample_id='I7P9lZLCjeTE68Je6jbF', file_name='mitchel_139974250181728.mp3', mime_type='audio/mpeg', size_bytes=509277, hash='2d1e7456401a27192239a8f1570bee46')] )
+
+luis1=Voice(voice_id='KMrL33JuYiwp84JqMMEj' ,name='Luis' ,category='cloned' ,description='An youngperuvian man' ,labels={} ,samples=[VoiceSample(sample_id='naDqQrV078nznsW2NPY2', file_name='luis_140380489835440.mp3', mime_type='audio/mpeg', size_bytes=1076662, hash='88ed95cfc4587c9a6f5750a5d5fbfab4')] )
+
+mirna21= Voice(voice_id='nEFxzDF5WaT5tigFSqKa' ,name='Mirna2' ,category='cloned' ,description='An young peruvian woman' ,labels={} ,samples=[VoiceSample(sample_id='DPLGEMtgTdxJzUWhPD0r', file_name='grabacion03_140492797287408.mp3', mime_type='audio/mpeg', size_bytes=434677, hash='f41f2d2bffb2411819e85896d7a81b17'), VoiceSample(sample_id='PBX2b0JRpCwCYUigIv11', file_name='grabacion02_140492797287584.mp3', mime_type='audio/mpeg', size_bytes=419631, hash='cc3657735ec7dc88fbdfc0a24919a4a2'), VoiceSample(sample_id='gnQKHdHkcLkkLEmLm0G2', file_name='mirna_140492797285296.mp3', mime_type='audio/mpeg', size_bytes=409600, hash='a148bd04522c079cd4b02de356dd4d76')] )
